@@ -1,0 +1,2 @@
+# bootcamp-openshift
+Openshift resources
